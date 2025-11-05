@@ -60,7 +60,6 @@
 ## 🏆 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=normie69K&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=normie69K&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=normie69K&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
