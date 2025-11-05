@@ -68,5 +68,5 @@
 
 ## 👀 **Profile Visits**
 <p align="center">
-  <img src="https://profile-counter.glitch.me/normie69K/count.svg" alt="Profile Counter" />
+  <img src="https://komarev.com/ghpvc/?username=normie69K&style=for-the-badge&color=9D00FF" alt="Profile Counter" />
 </p>
