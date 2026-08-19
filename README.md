@@ -3,7 +3,7 @@
 <h3 align="center">🛡️ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ | 💻 ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 📱 ᴀɴᴅʀᴏɪᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Normie69K/Normie69K/main/assets/rika.gif" height="250"/>
+  <img src="https://raw.githubusercontent.com/K01SR/K01SR/main/assets/rika.gif" height="250"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 <h2 align="center">🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ꜱɴᴀᴋᴇ</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Normie69K/Normie69K/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/K01SR/K01SR/output/snake.svg"/>
 </p>
 
 ---
@@ -44,11 +44,11 @@
 <h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Normie69K&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=K01SR&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Normie69K&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K01SR&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 <h2 align="center">🔥 ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Normie69K&theme=nightowl&background=0,000000,441350&ring=ffeb95&fire=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90"/>
+  <img src="https://streak-stats.demolab.com?user=K01SR&theme=nightowl&background=0,000000,441350&ring=ffeb95&fire=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 <tr>
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Normie69K&bg_color=000000&color=c56a90&line=ffeb95&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K01SR&bg_color=000000&color=c56a90&line=ffeb95&point=ffffff&area=true&hide_border=true"/>
 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇꜱ</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Normie69K&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=K01SR&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -86,5 +86,5 @@
 <h2 align="center">👀 ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Normie69K&style=for-the-badge&color=9D00FF"/>
+  <img src="https://komarev.com/ghpvc/?username=K01SR&style=for-the-badge&color=9D00FF"/>
 </p>
